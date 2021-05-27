@@ -7,4 +7,5 @@ CloudWatchEventsと組み合わせて活用<br />
 CloudWatchEventsのイベントルールを作成<br />
 例：　スケジュール　cron式　＊　２１　＊　＊　＊　？　＊<br />
 　　 ターゲット　[lambda]<br />
+tagName : AutoStop value: true ←　こちらの内容は任意で変更
 
